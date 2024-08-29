@@ -1,16 +1,35 @@
-# basketball
+# Basketball app
 
-A new Flutter project.
+## Requisitos
 
-## Getting Started
+App em Flutter para contar os pontos de 2 times de basquete:
 
-This project is a starting point for a Flutter application.
+* Um textView para mostrar o placar
 
-A few resources to get you started if this is your first Flutter project:
+* 3 botões para o time 1: (i) lance livre, (ii) 2 pontos, e (iii) 3 pontos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* 3 botões para o time 2: igual acima
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Um botão "Voltar Lance" que decrementa os pontos do último lance realizado. Esse botão só é capaz de voltar um lance, desabilite-o caso contrário. 
+
+- Experimente com os mecanismos de construção de interface. 
+
+- Use internacionalização (ou seja, não use strings hardcoded).
+
+### Tecnologias
+- Android Studio
+-  Flutter
+ 
+
+### Telas
+
+![image](https://github.com/user-attachments/assets/2bfc2eb4-23e6-45ff-96b6-a6b2db2ac344)
+
+
+
+
+
+
+
+
+
