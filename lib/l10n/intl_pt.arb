@@ -1,0 +1,10 @@
+{
+  "appTitle": "Placar de Basquete",
+  "team1": "Time 1",
+  "team2": "Time 2",
+  "freeThrow": "Lance Livre",
+  "twoPoints": "2 Pontos",
+  "threePoints": "3 Pontos",
+  "undo": "Voltar Lance",
+  "reset": "Reiniciar"
+}
